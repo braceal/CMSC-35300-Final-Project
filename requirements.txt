@@ -1,0 +1,7 @@
+jupyter
+numpy
+numba
+scipy
+tqdm
+pandas
+matplotlib
