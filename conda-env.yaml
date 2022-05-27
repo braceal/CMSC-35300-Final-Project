@@ -1,0 +1,19 @@
+name: abrace-ml-final
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - jupyter
+  - numpy
+  - numba
+  - scipy
+  - tqdm
+  - pandas
+  - matplotlib
+  - seaborn
+  - MDAnalysis
+  - pip
+  - pip:
+      mdlearn
+
